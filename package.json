@@ -1,0 +1,10 @@
+{
+  "name": "amqron",
+  "version": "1.0.0",
+  "description": "Cron-like Facility using RabbitMQ",
+  "dependencies": {
+    "amqplib": "^0.4.2"
+  },
+  "author": "Pristine Dev Team <dev@pristine.io>",
+  "license": "MIT"
+}
